@@ -78,4 +78,4 @@ theme: landscape
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@github.com:isaron/isaron.github.io.git
+  repo: https://isaron@github.com/isaron/isaron.github.io.git
