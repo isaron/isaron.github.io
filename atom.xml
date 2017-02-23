@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>豆豆爸的技术博客</title>
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://huangch.me/"/>
+  <updated>2017-02-23T10:17:46.000Z</updated>
+  <id>http://huangch.me/</id>
+  
+  <author>
+    <name>Arbor Huang</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>TensorFlow 1.0 文档翻译计划</title>
+    <link href="http://huangch.me/2017/02/23/TensorFlow-1-0-%E6%96%87%E6%A1%A3%E7%BF%BB%E8%AF%91%E8%AE%A1%E5%88%92/"/>
+    <id>http://huangch.me/2017/02/23/TensorFlow-1-0-文档翻译计划/</id>
+    <published>2017-02-23T10:17:46.000Z</published>
+    <updated>2017-02-23T10:17:46.000Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>模块化应用系统</title>
+    <link href="http://huangch.me/2016/01/25/%E6%A8%A1%E5%9D%97%E5%8C%96%E5%BA%94%E7%94%A8%E7%B3%BB%E7%BB%9F/"/>
+    <id>http://huangch.me/2016/01/25/模块化应用系统/</id>
+    <published>2016-01-25T15:10:58.000Z</published>
+    <updated>2017-02-23T08:28:22.000Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>关于东、西方哲学</title>
+    <link href="http://huangch.me/2015/10/11/%E5%85%B3%E4%BA%8E%E4%B8%9C%E3%80%81%E8%A5%BF%E6%96%B9%E5%93%B2%E5%AD%A6/"/>
+    <id>http://huangch.me/2015/10/11/关于东、西方哲学/</id>
+    <published>2015-10-11T01:02:45.000Z</published>
+    <updated>2017-02-23T08:28:22.000Z</updated>
+    
+    <content type="html"><![CDATA[<h5 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h5>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h5 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h5&gt;
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>云计算思路整理之一</title>
+    <link href="http://huangch.me/2015/09/13/%E4%BA%91%E8%AE%A1%E7%AE%97%E6%80%9D%E8%B7%AF%E6%95%B4%E7%90%86%E4%B9%8B%E4%B8%80/"/>
+    <id>http://huangch.me/2015/09/13/云计算思路整理之一/</id>
+    <published>2015-09-12T17:53:17.000Z</published>
+    <updated>2017-02-23T10:11:57.000Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="云计算概念简析"><a href="#云计算概念简析" class="headerlink" title="云计算概念简析"></a>云计算概念简析</h4><p>　　“云计算”概念初始于Google，于2006年Google工程师<br><a id="more"></a></p>
+<h4 id="云计算产品-项目"><a href="#云计算产品-项目" class="headerlink" title="云计算产品/项目"></a>云计算产品/项目</h4><h4 id="云计算技术架构分析"><a href="#云计算技术架构分析" class="headerlink" title="云计算技术架构分析"></a>云计算技术架构分析</h4><h4 id="云集市概念"><a href="#云集市概念" class="headerlink" title="云集市概念"></a>云集市概念</h4><h4 id="云集市技术架构简介"><a href="#云集市技术架构简介" class="headerlink" title="云集市技术架构简介"></a>云集市技术架构简介</h4><h4 id="云集市应用场景"><a href="#云集市应用场景" class="headerlink" title="云集市应用场景"></a>云集市应用场景</h4><p>(To be continue.)</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h4 id=&quot;云计算概念简析&quot;&gt;&lt;a href=&quot;#云计算概念简析&quot; class=&quot;headerlink&quot; title=&quot;云计算概念简析&quot;&gt;&lt;/a&gt;云计算概念简析&lt;/h4&gt;&lt;p&gt;　　“云计算”概念初始于Google，于2006年Google工程师&lt;br&gt;
+    
+    </summary>
+    
+      <category term="存档" scheme="http://huangch.me/categories/%E5%AD%98%E6%A1%A3/"/>
+    
+    
+      <category term="架构" scheme="http://huangch.me/tags/%E6%9E%B6%E6%9E%84/"/>
+    
+      <category term="云计算" scheme="http://huangch.me/tags/%E4%BA%91%E8%AE%A1%E7%AE%97/"/>
+    
+      <category term="Cloud" scheme="http://huangch.me/tags/Cloud/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>阿里云推荐码（2017-05-31前有效）</title>
+    <link href="http://huangch.me/2015/09/13/%E9%98%BF%E9%87%8C%E4%BA%91%E6%8E%A8%E8%8D%90%E7%A0%81%EF%BC%882017-05-31%E5%89%8D%E6%9C%89%E6%95%88%EF%BC%89/"/>
+    <id>http://huangch.me/2015/09/13/阿里云推荐码（2017-05-31前有效）/</id>
+    <published>2015-09-12T17:36:30.000Z</published>
+    <updated>2017-02-23T08:28:22.000Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="我的推荐码-YCO07X"><a href="#我的推荐码-YCO07X" class="headerlink" title="我的推荐码: YCO07X"></a>我的推荐码: YCO07X</h4><p>有效期至：2017-05-31 23:59:59。<br>特别说明：若通过我的推荐码参与阿里云的活动，所得代金劵将无偿返还。</p>
+<h3 id="推荐码返利活动规则"><a href="#推荐码返利活动规则" class="headerlink" title="推荐码返利活动规则:"></a>推荐码返利活动规则:</h3><ol>
+<li>分享推荐码给好友，好友首次购买包年包月云服务器ECS和云数据库RDS时，使用推荐码可享受原价9折优惠</li>
+<li>您可获得好友实际支付订单金额*10%的代金券返利</li>
+<li><p>推荐码可以分享给多人使用，用的越多，您获得返利越多</p>
+<p><a href="http://help.aliyun.com/knowledge_detail/6568905.html?spm=5176.100126.3.1.3jNGh0" target="_blank" rel="external">点击查看推荐码详细规则</a></p>
+</li>
+</ol>
+<h3 id="返利所得代金券使用范围："><a href="#返利所得代金券使用范围：" class="headerlink" title="返利所得代金券使用范围："></a>返利所得代金券使用范围：</h3><ol>
+<li>可购买产品：云服务器ECS、云数据库RDS、负载均衡SLB、开放存储服务OSS、 内容分发网络CDN、开放缓存服务OCS</li>
+<li>购买行为：新购、续费</li>
+<li>返利所得代金券可转让给他人使用</li>
+</ol>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h4 id=&quot;我的推荐码-YCO07X&quot;&gt;&lt;a href=&quot;#我的推荐码-YCO07X&quot; class=&quot;headerlink&quot; title=&quot;我的推荐码: YCO07X&quot;&gt;&lt;/a&gt;我的推荐码: YCO07X&lt;/h4&gt;&lt;p&gt;有效期至：2017-05-31 23:59:59。&lt;br
+    
+    </summary>
+    
+      <category term="业界资讯" scheme="http://huangch.me/categories/%E4%B8%9A%E7%95%8C%E8%B5%84%E8%AE%AF/"/>
+    
+    
+      <category term="阿里云" scheme="http://huangch.me/tags/%E9%98%BF%E9%87%8C%E4%BA%91/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>CloudMarts.org 网站介绍：定位、内容、技术架构</title>
+    <link href="http://huangch.me/2015/09/11/CloudMarts-org-%E7%BD%91%E7%AB%99%E4%BB%8B%E7%BB%8D%EF%BC%9A%E5%AE%9A%E4%BD%8D%E3%80%81%E5%86%85%E5%AE%B9%E3%80%81%E6%8A%80%E6%9C%AF%E6%9E%B6%E6%9E%84/"/>
+    <id>http://huangch.me/2015/09/11/CloudMarts-org-网站介绍：定位、内容、技术架构/</id>
+    <published>2015-09-11T07:33:46.000Z</published>
+    <updated>2017-02-23T10:10:45.000Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote>
+<p>天下皆知美之为美，斯恶己；皆知善之为善，斯不善己。故有无相生，难易相成，长短相形，高下相倾，音声相和，前后相随。是以圣人处无为之事，行不言之教，万物作焉而不辞，生而不有，为而不恃，功成而弗居。夫唯不居，是以不去。</p>
+<p>–老子•《道德经》</p>
+</blockquote>
+<p>　　CloudMarts.org 此网站策划已久，而且其中涉及的内容也早已在进行之中。究竟应该将哪些内容放置其中，经过长时间的考虑业已逐渐完备。后续应该还需要多次调整，但已不会涉及主体思想。</p>
+<h4 id="0-前因"><a href="#0-前因" class="headerlink" title="0.前因"></a>0.前因</h4><p>　　近年对云计算相关领域也算是有所涉猎，对各家云计算产品都还算有些了解。从06年前后“云计算”的概念初起，一直看到现如今，满眼扫去遍地是“云”啊。<br>　　看的多了，用的多了，难免会有些想法（详见《云计算思路整理之一》），从而催生了少许我自认为还算可取的闪光点。然而个人思路总有短板，同时有好友对这方面也比较有兴趣，所以，最终我觉得还是搭建一个简单的平台出来，便于交流，便于共享。</p>
+<h3 id="1-定位"><a href="#1-定位" class="headerlink" title="1.定位"></a>1.定位</h3><p>　　CloudMarts.org，中文名“云集市”，取“云集而市”之意。其聚焦于云计算相关领域，汇集最新的云计算研究动态、前沿技术、市场和产品、解决方案、及应用现状等，致力于成为专业的云计算研究前沿资讯平台。<br>　　目前暂以开源项目为首选方向，主攻实时服务引擎和云间协议。<br><a id="more"></a></p>
+<h3 id="2-核心内容"><a href="#2-核心内容" class="headerlink" title="2.核心内容"></a>2.核心内容</h3><p>　　网站内容分为3大核心部分，资讯区、技术试验区、开源项目区。</p>
+<h4 id="2-1-资讯区"><a href="#2-1-资讯区" class="headerlink" title="2.1 资讯区"></a>2.1 资讯区</h4><ul>
+<li>云计算前沿动态</li>
+<li>云计算技术名词释义</li>
+<li>云计算厂商介绍</li>
+<li>云计算产品和解决方案</li>
+<li>云计算实施案例</li>
+</ul>
+<h4 id="2-2-技术试验区"><a href="#2-2-技术试验区" class="headerlink" title="2.2 技术试验区"></a>2.2 技术试验区</h4><ul>
+<li>Demo</li>
+</ul>
+<h4 id="2-3-开源项目区"><a href="#2-3-开源项目区" class="headerlink" title="2.3 开源项目区"></a>2.3 开源项目区</h4><ul>
+<li>实时服务引擎</li>
+<li>云间协议</li>
+<li>家园互动</li>
+<li>……</li>
+</ul>
+<h3 id="3-技术架构"><a href="#3-技术架构" class="headerlink" title="3.技术架构"></a>3.技术架构</h3><h4 id="3-1-网站主体框架"><a href="#3-1-网站主体框架" class="headerlink" title="3.1 网站主体框架"></a>3.1 网站主体框架</h4><p>(TODO)</p>
+<h4 id="3-2-核心开源项目"><a href="#3-2-核心开源项目" class="headerlink" title="3.2 核心开源项目"></a>3.2 核心开源项目</h4><p>(TODO)</p>
+<h3 id="4-建站规划"><a href="#4-建站规划" class="headerlink" title="4.建站规划"></a>4.建站规划</h3><h4 id="4-1-筹备期"><a href="#4-1-筹备期" class="headerlink" title="4.1 筹备期"></a>4.1 筹备期</h4><p>(TODO)</p>
+<h4 id="5-Update-Log"><a href="#5-Update-Log" class="headerlink" title="5.Update Log"></a>5.Update Log</h4><ul>
+<li>2015.09.11 建立本文档</li>
+</ul>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;blockquote&gt;
+&lt;p&gt;天下皆知美之为美，斯恶己；皆知善之为善，斯不善己。故有无相生，难易相成，长短相形，高下相倾，音声相和，前后相随。是以圣人处无为之事，行不言之教，万物作焉而不辞，生而不有，为而不恃，功成而弗居。夫唯不居，是以不去。&lt;/p&gt;
+&lt;p&gt;–老子•《道德经》&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;　　CloudMarts.org 此网站策划已久，而且其中涉及的内容也早已在进行之中。究竟应该将哪些内容放置其中，经过长时间的考虑业已逐渐完备。后续应该还需要多次调整，但已不会涉及主体思想。&lt;/p&gt;
+&lt;h4 id=&quot;0-前因&quot;&gt;&lt;a href=&quot;#0-前因&quot; class=&quot;headerlink&quot; title=&quot;0.前因&quot;&gt;&lt;/a&gt;0.前因&lt;/h4&gt;&lt;p&gt;　　近年对云计算相关领域也算是有所涉猎，对各家云计算产品都还算有些了解。从06年前后“云计算”的概念初起，一直看到现如今，满眼扫去遍地是“云”啊。&lt;br&gt;　　看的多了，用的多了，难免会有些想法（详见《云计算思路整理之一》），从而催生了少许我自认为还算可取的闪光点。然而个人思路总有短板，同时有好友对这方面也比较有兴趣，所以，最终我觉得还是搭建一个简单的平台出来，便于交流，便于共享。&lt;/p&gt;
+&lt;h3 id=&quot;1-定位&quot;&gt;&lt;a href=&quot;#1-定位&quot; class=&quot;headerlink&quot; title=&quot;1.定位&quot;&gt;&lt;/a&gt;1.定位&lt;/h3&gt;&lt;p&gt;　　CloudMarts.org，中文名“云集市”，取“云集而市”之意。其聚焦于云计算相关领域，汇集最新的云计算研究动态、前沿技术、市场和产品、解决方案、及应用现状等，致力于成为专业的云计算研究前沿资讯平台。&lt;br&gt;　　目前暂以开源项目为首选方向，主攻实时服务引擎和云间协议。&lt;br&gt;
+    
+    </summary>
+    
+      <category term="项目" scheme="http://huangch.me/categories/%E9%A1%B9%E7%9B%AE/"/>
+    
+    
+      <category term="CloudMarts" scheme="http://huangch.me/tags/CloudMarts/"/>
+    
+      <category term="项目" scheme="http://huangch.me/tags/%E9%A1%B9%E7%9B%AE/"/>
+    
+      <category term="架构" scheme="http://huangch.me/tags/%E6%9E%B6%E6%9E%84/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello 豆豆</title>
+    <link href="http://huangch.me/2015/09/09/Hello-%E8%B1%86%E8%B1%86/"/>
+    <id>http://huangch.me/2015/09/09/Hello-豆豆/</id>
+    <published>2015-09-09T05:39:57.000Z</published>
+    <updated>2017-02-23T08:28:22.000Z</updated>
+    
+    <content type="html"><![CDATA[<p><strong>本站第一篇博文</strong></p>
+<p>本博基于 <a href="https://pages.github.com/" title="Github Pages" target="_blank" rel="external">Github Pages</a>建立，Github Repo：<a href="http://isaron.github.io/" target="_blank" rel="external">isaron.github.io</a>。</p>
+<p>博主<a href="/about/" title="About">黄传华（Arbor Huang）</a>，可以通过邮箱联系我：<a href="mailto:isaron#sohu.com" target="_blank" rel="external">isaron#sohu.com</a> (“#”替换为”@”)，确保能有效回复。</p>
+<p><strong>关于博客取名</strong></p>
+<p>豆豆是谁？我家宝贝儿子（^_^）。</p>
+<p><strong>感谢光临本博！</strong></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;strong&gt;本站第一篇博文&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;本博基于 &lt;a href=&quot;https://pages.github.com/&quot; title=&quot;Github Pages&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Github Pages
+    
+    </summary>
+    
+      <category term="日志" scheme="http://huangch.me/categories/%E6%97%A5%E5%BF%97/"/>
+    
+    
+      <category term="Hello" scheme="http://huangch.me/tags/Hello/"/>
+    
+  </entry>
+  
+</feed>
