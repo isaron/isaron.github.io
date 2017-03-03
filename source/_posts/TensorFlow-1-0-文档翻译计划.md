@@ -59,40 +59,40 @@ Google 的 [TensorFlow](https://www.tensorflow.org/) 发布 1.0 版本了。最�
 * TensorFlow Debugger (tfdbg) 与 tf.contrib.learn 结合使用
 * 导入导出MetaGraph
 * 常见问题
-* Tensor Ranks, Shapes, and Types
-* Variables: Creation, Initialization, Saving, and Loading
+* Tensor 排名、形状和类型
+* 变量：创建、初始化、保存和加载
 
 #### 2.3 教程
 
-* Mandelbrot Set
-* Partial Differential Equations
-* Convolutional Neural Networks
-* Image Recognition
-* How to Retrain Inception’s Final Layer for New Categories
-* Vector Representations of Words
-* Recurrent Neural Networks
-* Sequence-to-Sequence Models
-* A Guide to TF Layers: Building a Convolutional Neural Network
-* Large-scale Linear Models with TensorFlow
-* TensorFlow Linear Model Tutorial
-* TensorFlow Wide & Deep Learning Tutorial
-* Using GPUs
+* 曼德布洛特(Mandelbrot)集合
+* 偏微分方程(PDEs)
+* 卷积神经网络
+* 图像识别
+* 如何训练 Inception’s Final Layer for New Categories
+* 字词的向量表示
+* 递归神经网络
+* Sequence-to-Sequence 模型
+* TF Layers 指南: 创建卷积神经网络
+* 大规模线性模型与 TensorFlow
+* TensorFlow 线性模型指导
+* TensorFlow 广度与深度学习指导
+* 使用 GPU
 
 #### 2.4 性能优化
 
-* Performance
-* XLA Overview
-* Broadcasting semantics
-* Developing a new backend for XLA
-* Using JIT Compilation
-* Operation Semantics
+* 总览
+* XLA 概览
+* 广播语义
+* 开发新的 XLA 后端
+* 使用 JIT 编译
+* 运算语义
 * Shapes and Layout
-* Using AOT compilation
-* How to Quantize Neural Networks with TensorFlow
+* 使用 AOT 编译
+* 如何量化神经网络
 
 ### 3. API r1.0
 
-* Overview r1.0
+* 概览 r1.0
 * Python API r1.0
 * C++ API r1.0
 * Java API r1.0
@@ -100,36 +100,36 @@ Google 的 [TensorFlow](https://www.tensorflow.org/) 发布 1.0 版本了。最�
 
 ### 4. 部署
 
-* How to run TensorFlow on Hadoop
-* Distributed TensorFlow
-* TensorFlow Serving
+* 在 Hadoop 上运行 TensorFlow
+* 分布式部署 TensorFlow
+* TensorFlow 服务
 
 ### 5. 扩展
 
-* TensorFlow Architecture
-* Adding a New Op
-* Adding a Custom Filesystem Plugin
-* TensorFlow in other languages
-* Custom Data Readers
-* Creating Estimators in tf.contrib.learn
-* A Tool Developer’s Guide to TensorFlow Model Files
+* TensorFlow 架构
+* 添加新的 Op
+* 添加自定义文件系统插件
+* TensorFlow 翻译
+* 自定义数据读取
+* 用 tf.contrib.learn 建立估量
+* TensorFlow 模型文件的工具开发者指南
 
 ### 6. 资源
 
 #### 6.1 社区
 
-* Writing TensorFlow Documentation
-* TensorFlow Style Guide
+* 编写 TensorFlow 文档
+* TensorFlow 风格指南
 
 #### 6.2 关于
 
-* Additional Resources
-* TensorFlow White Papers
+* 更多TF相关资源
+* TensorFlow 白皮书
 * TensorFlow Uses
 
 ### 7. TensorFlow版本
 
-* TensorFlow Versions
+* TensorFlow 版本列表
 * master
 * r1.0
 * r0.12
