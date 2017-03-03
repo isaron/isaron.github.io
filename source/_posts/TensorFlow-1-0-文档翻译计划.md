@@ -11,7 +11,7 @@ category: TensorFlow
 
 Google 的 [TensorFlow](https://www.tensorflow.org/) 发布 1.0 版本了。最近一直在关注 Machine Learning 这方面的东东，个人认为（就目前来说）TensorFlow 在这个领域是首先需要学习的。
 
-[TensorFlow中文社区](http://www.tensorfly.cn)给了我很多帮助，感谢！可惜他们的文档有点久了（目前还是 0.5 版本），跟现在的 1.0 区别还是有点多。而我是直接从 1.0 开始学习的，虽然直接看官方的英文文档还算没有问题。为了督促自己持续的学习，同时加深学习的效果，所以决定开始个人翻译 TensorFlow 1.0 官方文档的计划。当然如果有其他同好愿意一起翻译的话，也非常欢迎。文档翻译项目的源码部署在 Github 上，源码 repo：https://github.com/isaron/tfdocs.git。
+[TensorFlow中文社区](http://www.tensorfly.cn)给了我很多帮助，感谢！可惜他们的文档有点久了（目前还是 0.5 版本），跟现在的 1.0 区别还是有点多。而我是直接从 1.0 开始学习的，虽然直接看官方的英文文档还算没有问题，但为了督促自己持续的学习，同时加深学习的效果，所以决定开始个人翻译 TensorFlow 1.0 官方文档的计划。当然如果有其他同好愿意一起翻译的话，也非常欢迎。文档翻译项目的源码部署在 Github 上，源码 repo：https://github.com/isaron/tfdocs.git。
 
 文档翻译过程中克隆了[官方文档库](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/g3doc)（尽量保持跟随最新更新），同时严重参考了[TensorFlow中文社区](http://www.tensorfly.cn/)的文档。
 
