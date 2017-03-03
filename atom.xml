@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://huangch.me/"/>
-  <updated>2017-03-03T10:00:30.000Z</updated>
+  <updated>2017-03-03T10:21:07.000Z</updated>
   <id>https://huangch.me/</id>
   
   <author>
@@ -20,13 +20,13 @@
     <link href="https://huangch.me/2017/02/23/TensorFlow-1-0-%E6%96%87%E6%A1%A3%E7%BF%BB%E8%AF%91%E8%AE%A1%E5%88%92/"/>
     <id>https://huangch.me/2017/02/23/TensorFlow-1-0-文档翻译计划/</id>
     <published>2017-02-23T10:17:46.000Z</published>
-    <updated>2017-03-03T10:00:30.000Z</updated>
+    <updated>2017-03-03T10:21:07.000Z</updated>
     
     <content type="html"><![CDATA[<blockquote>
 <p>非生而知之者，当学而不辍。</p>
 </blockquote>
 <h2 id="写在前面"><a href="#写在前面" class="headerlink" title="写在前面"></a>写在前面</h2><p>Google 的 <a href="https://www.tensorflow.org/" target="_blank" rel="external">TensorFlow</a> 发布 1.0 版本了。最近一直在关注 Machine Learning 这方面的东东，个人认为（就目前来说）TensorFlow 在这个领域是首先需要学习的。</p>
-<p><a href="http://www.tensorfly.cn" target="_blank" rel="external">TensorFlow中文社区</a>给了我很多帮助，感谢！可惜他们的文档有点久了（目前还是 0.5 版本），跟现在的 1.0 区别还是有点多。而我是直接从 1.0 开始学习的，虽然直接看官方的英文文档还算没有问题。为了督促自己持续的学习，同时加深学习的效果，所以决定开始个人翻译 TensorFlow 1.0 官方文档的计划。当然如果有其他同好愿意一起翻译的话，也非常欢迎。文档翻译项目的源码部署在 Github 上，源码 repo：<a href="https://github.com/isaron/tfdocs.git。" target="_blank" rel="external">https://github.com/isaron/tfdocs.git。</a></p>
+<p><a href="http://www.tensorfly.cn" target="_blank" rel="external">TensorFlow中文社区</a>给了我很多帮助，感谢！可惜他们的文档有点久了（目前还是 0.5 版本），跟现在的 1.0 区别还是有点多。而我是直接从 1.0 开始学习的，虽然直接看官方的英文文档还算没有问题，但为了督促自己持续的学习，同时加深学习的效果，所以决定开始个人翻译 TensorFlow 1.0 官方文档的计划。当然如果有其他同好愿意一起翻译的话，也非常欢迎。文档翻译项目的源码部署在 Github 上，源码 repo：<a href="https://github.com/isaron/tfdocs.git。" target="_blank" rel="external">https://github.com/isaron/tfdocs.git。</a></p>
 <p>文档翻译过程中克隆了<a href="https://github.com/tensorflow/tensorflow/tree/master/tensorflow/g3doc" target="_blank" rel="external">官方文档库</a>（尽量保持跟随最新更新），同时严重参考了<a href="http://www.tensorfly.cn/" target="_blank" rel="external">TensorFlow中文社区</a>的文档。</p>
 <p>本文档项目使用<a href="http://mkdocs.org" target="_blank" rel="external">MkDocs文档系统</a>构建，界面主题为<a href="https://readthedocs.org/" target="_blank" rel="external">Read the Docs</a>。</p>
 <p>本文档部署于<a href="https://huangch.me/tfdocs">https://huangch.me/tfdocs</a>。</p>
@@ -138,7 +138,7 @@
 &lt;p&gt;非生而知之者，当学而不辍。&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;h2 id=&quot;写在前面&quot;&gt;&lt;a href=&quot;#写在前面&quot; class=&quot;headerlink&quot; title=&quot;写在前面&quot;&gt;&lt;/a&gt;写在前面&lt;/h2&gt;&lt;p&gt;Google 的 &lt;a href=&quot;https://www.tensorflow.org/&quot;&gt;TensorFlow&lt;/a&gt; 发布 1.0 版本了。最近一直在关注 Machine Learning 这方面的东东，个人认为（就目前来说）TensorFlow 在这个领域是首先需要学习的。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://www.tensorfly.cn&quot;&gt;TensorFlow中文社区&lt;/a&gt;给了我很多帮助，感谢！可惜他们的文档有点久了（目前还是 0.5 版本），跟现在的 1.0 区别还是有点多。而我是直接从 1.0 开始学习的，虽然直接看官方的英文文档还算没有问题。为了督促自己持续的学习，同时加深学习的效果，所以决定开始个人翻译 TensorFlow 1.0 官方文档的计划。当然如果有其他同好愿意一起翻译的话，也非常欢迎。文档翻译项目的源码部署在 Github 上，源码 repo：&lt;a href=&quot;https://github.com/isaron/tfdocs.git。&quot;&gt;https://github.com/isaron/tfdocs.git。&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.tensorfly.cn&quot;&gt;TensorFlow中文社区&lt;/a&gt;给了我很多帮助，感谢！可惜他们的文档有点久了（目前还是 0.5 版本），跟现在的 1.0 区别还是有点多。而我是直接从 1.0 开始学习的，虽然直接看官方的英文文档还算没有问题，但为了督促自己持续的学习，同时加深学习的效果，所以决定开始个人翻译 TensorFlow 1.0 官方文档的计划。当然如果有其他同好愿意一起翻译的话，也非常欢迎。文档翻译项目的源码部署在 Github 上，源码 repo：&lt;a href=&quot;https://github.com/isaron/tfdocs.git。&quot;&gt;https://github.com/isaron/tfdocs.git。&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;文档翻译过程中克隆了&lt;a href=&quot;https://github.com/tensorflow/tensorflow/tree/master/tensorflow/g3doc&quot;&gt;官方文档库&lt;/a&gt;（尽量保持跟随最新更新），同时严重参考了&lt;a href=&quot;http://www.tensorfly.cn/&quot;&gt;TensorFlow中文社区&lt;/a&gt;的文档。&lt;/p&gt;
 &lt;p&gt;本文档项目使用&lt;a href=&quot;http://mkdocs.org&quot;&gt;MkDocs文档系统&lt;/a&gt;构建，界面主题为&lt;a href=&quot;https://readthedocs.org/&quot;&gt;Read the Docs&lt;/a&gt;。&lt;/p&gt;
 &lt;p&gt;本文档部署于&lt;a href=&quot;https://huangch.me/tfdocs&quot;&gt;https://huangch.me/tfdocs&lt;/a&gt;。&lt;/p&gt;
