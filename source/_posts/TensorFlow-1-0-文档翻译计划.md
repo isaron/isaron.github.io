@@ -24,7 +24,7 @@ Google 的 [TensorFlow](https://www.tensorflow.org/) 发布 1.0 版本了。最�
 <!-- more -->
 ### 1. 安装
 
-* [安装综述](https://huangch.me/tfdocs/install/install-index)
+* [安装综述](https://huangch.me/tfdocs/install/installing-tensorflow)
 * 在Ubuntu上安装TensorFlow
 * 在Mac OS X上安装TensorFlow
 * 在Windows上安装TensorFlow
@@ -135,3 +135,14 @@ Google 的 [TensorFlow](https://www.tensorflow.org/) 发布 1.0 版本了。最�
 * r0.12
 * r0.11
 * r0.10
+
+## 内容来源
+
+英文官方网站：
+    https://www.tensorflow.org/
+
+TensorFlow中文社区:
+    http://www.tensorfly.cn
+
+极客学院TensorFlow文档中文版翻译计划：
+    https://github.com/jikexueyuanwiki/tensorflow-zh
