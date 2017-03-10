@@ -64,13 +64,21 @@ per_page: 10
 pagination_dir: page
 
 duoshuo_shortname: huangchpw
+duoshuo_share: true
+
 disqus_shortname: huangchpw
 
 baidu_analytics: fe2f79fb8e652cf7d0dbc87df1bb2d5f
 baidusitemap:
   path: baidusitemap.xml
 
-swiftype_key: huangch
+#swiftype_key: huangch
+
+search:
+  path: search.xml
+  field: post
+  format: html
+  limit: 10000
 
 # Extensions
 ## Plugins: https://hexo.io/plugins/
