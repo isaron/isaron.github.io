@@ -3,6 +3,7 @@ title: TensorFlow 1.0 文档翻译计划（附文档目录）
 date: 2017-02-23 18:17:46
 tags: TensorFlow
 category: TensorFlow
+top: 1
 ---
 
 > 非生而知之者，当学而不辍。
