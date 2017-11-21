@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://huangch.me/resume/index.html</loc>
+    
+    <lastmod>2017-11-21T14:41:31.771Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://huangch.me/about/index.html</loc>
     
     <lastmod>2017-11-21T14:35:52.509Z</lastmod>
@@ -38,13 +45,6 @@
   
   <url>
     <loc>https://huangch.me/categories/index.html</loc>
-    
-    <lastmod>2017-02-23T08:28:22.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://huangch.me/resume/index.html</loc>
     
     <lastmod>2017-02-23T08:28:22.000Z</lastmod>
     
